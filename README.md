@@ -104,4 +104,3 @@ This project aims to develop a system for detecting fire and smoke in real-time 
 
 ---
 
-This README provides an overview of the project, instructions for installation and usage, and details about the features and models used. Make sure to replace placeholders with your actual paths, credentials, and contact information before using or sharing this file.
