@@ -1,5 +1,3 @@
-"Fire and Smoke Detection using Computer Vision and Deep Learning Models" project:
-
 ---
 
 # Fire and Smoke Detection using Computer Vision and Deep Learning Models
